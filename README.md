@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Wilson Jonathan Oey profile views](https://u8views.com/api/v1/github/profiles/61810752/views/day-week-month-total-count.svg)](https://u8views.com/github/wilsonoey60)
+
+My name is Wilson Jonathan Oey (call me Wilson) from Indonesia. I was interested in JavaScript and framework React
